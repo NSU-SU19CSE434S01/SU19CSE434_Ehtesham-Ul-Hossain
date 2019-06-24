@@ -13,7 +13,7 @@
 .name_img{
 	display: flex;
 	width: 80%;
-	border-bottom: .5px solid #bbb2b2;
+	border-bottom: 2px solid #58b368;
 	margin: auto;
 }
 .name_img .image img{
@@ -24,4 +24,16 @@
 	width: 70%;
 	text-align: center;
 }
-.name_img .image
+.name_img .image{
+
+}
+.personal_information .info_title{
+	width: 80%;
+	border-bottom: 2px solid #58b368;
+	margin: auto;
+}
+.personal_information .info_title p{
+	font-size: larger;
+    font-weight: bold;
+    margin: auto;
+}
