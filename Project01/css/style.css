@@ -24,6 +24,9 @@
 	width: 70%;
 	text-align: center;
 }
+.name_img .name h4,p{
+	display: inline;
+}
 .name_img .image{
 
 }
@@ -36,4 +39,21 @@
 	font-size: larger;
     font-weight: bold;
     margin: auto;
+}
+.personal_information .info{
+	display: flex;
+    width: 80%;
+    margin: auto;
+}
+.personal_information .info .info_1{
+	width: 100%;
+}
+.personal_information .info .info_2{
+	width: 100%;
+}
+
+.personal_information .info{
+	width: 80%;
+	border-bottom: 2px solid #58b368;
+	margin: auto;
 }
