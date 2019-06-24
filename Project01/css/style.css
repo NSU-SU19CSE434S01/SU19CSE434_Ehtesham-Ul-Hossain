@@ -1,0 +1,27 @@
+.body{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.header{
+	border-bottom: .5px solid #bbb2b2;
+	text-align: center;
+	width: 80%;
+    margin: auto;
+}
+.name_img{
+	display: flex;
+	width: 80%;
+	border-bottom: .5px solid #bbb2b2;
+	margin: auto;
+}
+.name_img .image img{
+	    width: 140px;
+	    padding: 7px;
+}
+.name_img .name{
+	width: 70%;
+	text-align: center;
+}
+.name_img .image
