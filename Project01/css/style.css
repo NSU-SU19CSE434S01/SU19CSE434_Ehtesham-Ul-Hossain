@@ -13,7 +13,7 @@
 .name_img{
 	display: flex;
 	width: 80%;
-	border-bottom: 2px solid #58b368;
+	border-bottom: 2px solid #080808;
 	margin: auto;
 }
 .name_img .image img{
@@ -32,8 +32,9 @@
 }
 .personal_information .info_title{
 	width: 80%;
-	border-bottom: 2px solid #58b368;
-	margin: auto;
+    border-bottom: 2px solid #080808;
+    margin: auto;
+    background: #0a0a0a6e;
 }
 .personal_information .info_title p{
 	font-size: larger;
@@ -54,6 +55,31 @@
 
 .personal_information .info{
 	width: 80%;
-	border-bottom: 2px solid #58b368;
+	border-bottom: 2px solid #080808;
 	margin: auto;
+}
+.Education .Education_Title{
+	width: 80%;
+	border-bottom: 2px solid #080808;
+	margin: auto;
+	background: #0a0a0a6e;
+}
+.Education .Education_Title p{
+	font-size: larger;
+    font-weight: bold;
+    margin: auto;
+}
+.Education .Education_details{
+	width: 80%;
+	margin: auto;
+}
+.Education .Education_details .test{
+	font-weight: bold;
+}
+.Education .Education_details h4{
+	margin: 0px;
+}
+.Education .Education_details .Degree_1{
+	padding: 10px 0px;
+    text-decoration: underline;
 }
