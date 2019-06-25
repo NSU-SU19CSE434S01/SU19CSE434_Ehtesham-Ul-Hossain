@@ -83,3 +83,16 @@
 	padding: 10px 0px;
     text-decoration: underline;
 }
+.Skills .skills_title{
+	width: 80%;
+	border-top: 2px solid #080808;
+	border-bottom: 2px solid #080808;
+	margin: auto;
+	background: #0a0a0a6e;
+	margin-top: 15px;
+}
+.Skills .skills_title p{
+	font-size: larger;
+    font-weight: bold;
+    margin: auto;
+}
