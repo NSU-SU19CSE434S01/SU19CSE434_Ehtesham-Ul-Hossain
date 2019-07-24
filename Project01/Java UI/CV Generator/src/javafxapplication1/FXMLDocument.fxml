@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import com.jfoenix.controls.JFXButton?>
 <?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
@@ -47,5 +49,91 @@
             <Font name="Times New Roman Bold" size="12.0" />
          </font>
       </JFXTextField>
+      <Label layoutX="51.0" layoutY="247.0" text="Educational Qualification">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <JFXTextField layoutX="51.0" layoutY="321.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" text="Institution">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField layoutX="51.0" layoutY="379.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" text="Passing Year">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField layoutX="51.0" layoutY="352.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" text="CGPA">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="333.0" layoutY="288.0" text="Higher Secondary Certificate" underline="true" />
+      <JFXTextField layoutX="333.0" layoutY="321.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" text="Institution">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField layoutX="333.0" layoutY="379.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" text="Passing Year">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField layoutX="333.0" layoutY="352.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" text="CGPA">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField layoutX="52.0" layoutY="281.0" maxWidth="248.0" minWidth="151.0" prefHeight="31.0" prefWidth="181.0" promptText="Name" text="BSc/BBA etc...">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="51.0" layoutY="424.0" text="Secondary School Certificate" underline="true" />
+      <JFXTextField layoutX="52.0" layoutY="457.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" text="Institution">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField layoutX="52.0" layoutY="515.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" text="Passing Year">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField layoutX="52.0" layoutY="488.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" text="CGPA">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="344.0" layoutY="433.0" text="Skills" underline="true">
+         <font>
+            <Font name="Times New Roman Bold" size="14.0" />
+         </font>
+      </Label>
+      <JFXTextField layoutX="334.0" layoutY="457.0" maxWidth="248.0" minWidth="114.0" prefHeight="31.0" prefWidth="114.0">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </JFXTextField>
+      <JFXTextField layoutX="467.0" layoutY="457.0" maxWidth="248.0" minWidth="114.0" prefHeight="31.0" prefWidth="114.0">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField layoutX="334.0" layoutY="488.0" maxWidth="248.0" minWidth="114.0" prefHeight="31.0" prefWidth="114.0">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField layoutX="467.0" layoutY="488.0" maxWidth="248.0" minWidth="114.0" prefHeight="31.0" prefWidth="114.0">
+         <font>
+            <Font name="Times New Roman Bold" size="12.0" />
+         </font>
+      </JFXTextField>
+      <JFXButton buttonType="RAISED" layoutX="274.0" layoutY="709.0" ripplerFill="#a47b7b" style="-fx-background-color: #ffffff;" text="Generate CV" />
    </children>
 </AnchorPane>
