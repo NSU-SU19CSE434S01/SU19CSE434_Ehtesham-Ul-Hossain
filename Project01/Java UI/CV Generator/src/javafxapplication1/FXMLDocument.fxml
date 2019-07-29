@@ -29,7 +29,7 @@
             <Font name="Times New Roman Bold" size="12.0" />
          </font>
       </JFXTextField>
-      <JFXTextField id="name" layoutX="43.0" layoutY="137.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" unFocusColor="#2f2e2e">
+      <JFXTextField id="name" fx:id="nameField" layoutX="43.0" layoutY="137.0" maxWidth="248.0" minWidth="196.0" prefHeight="31.0" prefWidth="248.0" promptText="Name" unFocusColor="#2f2e2e">
          <font>
             <Font name="Times New Roman Bold" size="12.0" />
          </font>
@@ -140,6 +140,6 @@
             <Font name="Times New Roman Bold" size="12.0" />
          </font>
       </JFXTextField>
-      <JFXButton fx:id="CVGenerateButton" buttonType="RAISED" layoutX="274.0" layoutY="709.0" ripplerFill="#a47b7b" style="-fx-background-color: #ffffff;" text="Generate CV" />
+      <JFXButton fx:id="CVGenerateButton" buttonType="RAISED" layoutX="277.0" layoutY="632.0" onAction="#click" ripplerFill="#a47b7b" style="-fx-background-color: #ffffff;" text="Generate CV" />
    </children>
 </AnchorPane>
