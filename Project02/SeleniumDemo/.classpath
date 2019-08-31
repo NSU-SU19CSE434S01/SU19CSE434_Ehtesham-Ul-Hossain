@@ -6,6 +6,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/SELENIUM/Drivers/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/SELENIUM/Drivers/geckodriver-v0.24.0-win64.zip"/>
+	<classpathentry kind="lib" path="C:/SELENIUM/Drivers/IEDriverServer_x64_3.14.0.zip"/>
+	<classpathentry kind="lib" path="C:/SELENIUM/Drivers/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/SELENIUM/selenium java/libs/byte-buddy-1.8.15.jar"/>
 	<classpathentry kind="lib" path="C:/SELENIUM/selenium java/libs/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/SELENIUM/selenium java/libs/client-combined-3.141.59-sources.jar"/>
