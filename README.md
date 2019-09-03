@@ -81,7 +81,7 @@ The website that I test is :
 **Screen Short**
 
 	<p>
-		<img src="https://github.com/Ehtesham1558/SU19CSE434_Ehtesham-Ul-Hossain/blob/master/Project02/Screenshot/1.JPG">
+		<img src="https://github.com/Ehtesham1558/SU19CSE434_Ehtesham-Ul-Hossain/blob/master/Project02/Screenshot/1.png">
 
 		<img src="https://github.com/Ehtesham1558/SU19CSE434_Ehtesham-Ul-Hossain/blob/master/Project02/Screenshot/2.JPG">
 
