@@ -235,4 +235,34 @@ public void signupLogin() {
 	
 }
 
+
+public void logIn() {
+	
+	try {
+		driver.get("https://www.phptravels.net/login");
+		
+		driver.findElement(By.xpath("//*[@id=\"loginfrm\"]/div[1]/div[5]/div/div[1]/input")).sendKeys("rafezk@gmail.com");
+		Thread.sleep(1000);
+		driver.findElement(By.xpath("//*[@id=\"loginfrm\"]/div[1]/div[5]/div/div[2]/input")).sendKeys("hellodhaka");
+		Thread.sleep(1000);
+		driver.findElement(By.xpath("//*[@id=\"loginfrm\"]/div[1]/div[5]/div/label")).click();
+		Thread.sleep(1000);
+		driver.findElement(By.xpath("//*[@id=\"loginfrm\"]/button")).click();
+		
+
+		
+	} catch (InterruptedException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	
+}
+
+public void closeBrowser() {
+	
+	driver.close();
+}
+
+}
+
 	
