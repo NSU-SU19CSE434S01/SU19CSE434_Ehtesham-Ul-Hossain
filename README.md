@@ -78,3 +78,19 @@ The website that I test is :
 	- url & endpoint to switch different pages
 	- JavascriptExecutor for scrolling down and up
 	- Sleep to delay any functionality
+**Screen Short**
+
+	<p>
+		<img src="https://github.com/Ehtesham1558/SU19CSE434_Ehtesham-Ul-Hossain/blob/master/Project02/Screenshot/1.JPG">
+
+		<img src="https://github.com/Ehtesham1558/SU19CSE434_Ehtesham-Ul-Hossain/blob/master/Project02/Screenshot/2.JPG">
+
+		<img src="https://github.com/Ehtesham1558/SU19CSE434_Ehtesham-Ul-Hossain/blob/master/Project02/Screenshot/3.JPG">
+
+		<img src="https://github.com/Ehtesham1558/SU19CSE434_Ehtesham-Ul-Hossain/blob/master/Project02/Screenshot/4.JPG">
+
+		<img src="https://github.com/Ehtesham1558/SU19CSE434_Ehtesham-Ul-Hossain/blob/master/Project02/Screenshot/5.JPG">
+
+		<img src="https://github.com/Ehtesham1558/SU19CSE434_Ehtesham-Ul-Hossain/blob/master/Project02/Screenshot/6.JPG">
+
+	</p>
